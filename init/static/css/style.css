@@ -7,6 +7,21 @@ img {
 .logo {
   width: 80px; }
 
+.go-top {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  background: #27ae60;
+  bottom: 40px;
+  right: 50px;
+
+  text-decoration: none;
+  text-align: center;
+  line-height: 50px;
+  color: #fff;
+  font-size: 22px;
+}
+
 .navbar {
   opacity: 0.9;
   text-transform: uppercase; }
